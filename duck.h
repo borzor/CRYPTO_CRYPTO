@@ -38,7 +38,6 @@ void BR_gamma(ak_bckey key, ak_pointer open_text,  ak_pointer output_text, size_
                 tmp1.q[1]+=1;
             }
             tmp1.q[1]+=_GOST_C4;
-            tmp2 = tmp1;
             memcpy(key->ivector, tmp1.q, synh_size);
             key->encrypt(&key->key, key->ivector, tmp2.q);
             *out = *in ^ tmp2.q[0];
@@ -70,7 +69,6 @@ void BR_gamma(ak_bckey key, ak_pointer open_text,  ak_pointer output_text, size_
                 tmp1.q[1]+=1;
             }
             tmp1.q[1]+=_GOST_C4;
-            tmp2 = tmp1;
             memcpy(key->ivector, tmp1.q, synh_size);
             key->encrypt(&key->key, key->ivector, tmp2.q);
             while(i!=potential_block){
