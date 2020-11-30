@@ -2,7 +2,7 @@
 
 ![alt text](https://sun9-34.userapi.com/impg/IH1UCOBEw7yMFSYcnPEoIjeEUxjRFxbMCywAKg/cjP0eiY9DWU.jpg?size=701x350&quality=96&proxy=1&sign=aa64a1a595f65f5445d669b8ebb1f713)
 
-Пример работы программы с входными данными для магмы с хвостиком
+Пример работы программы с входными данными для магмы с хвоcтом
 
 ![alt text](https://sun9-56.userapi.com/impg/ZxK-tn21Ky_hNVwyRqGLEh0DbcwZHhBi-NurlA/m617-W_9vZA.jpg?size=247x396&quality=96&proxy=1&sign=87a1df9e14ee0a679efd825f9f1f8ca0)
 
