@@ -10,4 +10,12 @@
 
 ![alt text](https://sun9-6.userapi.com/impg/v7MBfBvRE59xVg-vRgAICJIBiUnNM7fI5erWHw/3ToezZhDMYE.jpg?size=399x51&quality=96&proxy=1&sign=a553ad0f95dc78739fce2681c418dfc4)
 
+После чего, на первой итерации вызова функции для простой замены мы получим зашифрованный текст:
 
+![alt text](https://sun9-26.userapi.com/impg/i2HHdJznVpRVKeRsycpmYovvPzvF9LB7ljN5Gg/px990sqz3eU.jpg?size=570x63&quality=96&proxy=1&sign=274998283de6942dad7a7d1a97ef04cc)
+
+Проверим, что имеем мы:
+
+![alt text](https://sun9-19.userapi.com/impg/9yzhfJnvf3SErdd503iJEl2GFmF52TJOXj6UzA/w54iiQB9ix4.jpg?size=929x112&quality=96&proxy=1&sign=7abf78e259bdb8c56f5891f659af66c4)
+
+Все сошлось, а значит, мы можем сделать вывод, что для последующих итераций выробатки гаммы, она будет вырабатываться корректно.
